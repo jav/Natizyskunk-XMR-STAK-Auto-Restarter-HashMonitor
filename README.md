@@ -5,10 +5,15 @@
 #                              Version 1.0                                #
 #                        created by Natizyskunk.                          #
 #                              It include:                                #
-#          -Auto-Restarter v1.0 by Natizyskunk (no actaul repo).          #
+#  -Auto-Restarter v1.0 by Natizyskunk (https://github.com/Natizyskunk).  #
 #   -HashMonitor v2.7 by JerichoJones (https://github.com/JerichoJones).  #
 #                                                                         #
 ###########################################################################
+
+
+##############################################################################################################
+# See the tool in action: https://drive.google.com/file/d/1q5uRZ-Ze8NrsfdCrNENh83mO_xyxWSBH/view?usp=sharing #
+##############################################################################################################
 
 
 ############################
