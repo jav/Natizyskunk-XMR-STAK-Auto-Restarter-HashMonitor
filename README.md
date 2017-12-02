@@ -1,0 +1,1 @@
+# Natizyskunk-XMR-STAK-Auto-Restarter-HashMonitor
